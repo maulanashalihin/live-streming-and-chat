@@ -5,7 +5,7 @@ Live Streaming And Live Chat Apps
 
  Tts kinda like webinarjam.   your lead fill the optin form and join live streaming.
 
-this app is monolith application built with adonisjs, inertia, and svelte.
+this app is monolith application built with adonisjs, inertia, and svelte. styling powered by tailwind css.
 
 demo optin page : https://bwa.drip.id/jogjamengaji
 
