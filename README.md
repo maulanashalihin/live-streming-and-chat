@@ -20,9 +20,15 @@ make sure u install redis to make pub sub between node cluster app.
 
 
 
-demo optin page : https://bwa.drip.id/jogjamengaji
+demo optin page : https://live.drip.id/turing 
 
-demo live stream : https://bwa.drip.id/view/1e1fe9ac00c5860e6f07f2044586c46b
+demo live stream : https://live.drip.id/view/37e938c979d0a42bce758804dae2ee83
+ 
+
+demo admin dashboard :
+https://live.drip.id/login 
+email login : bisnis.maulanashalihin@gmail.com
+password : xh9q5tui
 
 develop apps with this command
 
