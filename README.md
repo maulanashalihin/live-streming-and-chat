@@ -10,7 +10,7 @@ this app is monolith application built with adonisjs, inertia, and svelte.
 demo optin page : https://bwa.drip.id/jogjamengaji
 demo live stream : https://bwa.drip.id/view/1e1fe9ac00c5860e6f07f2044586c46b
 
-depoly apps with this command
+deploy apps with this command
 
 ```
  npm run build
