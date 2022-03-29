@@ -17,6 +17,7 @@ deploy apps with this command
  npm run build
  cd build
  cp ../.env.example .env
+ npm install
  node ace migration:run
  node ace db:seed
  pm2 start server.js
