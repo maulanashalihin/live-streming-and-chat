@@ -3,7 +3,9 @@ live streaming apps with live chat service
 
 Live Streaming And Live Chat Apps
 
- Tts kinda like webinarjam.   your lead fill the optin form and join live streaming.
+
+
+Tts kinda like webinarjam.   your lead fill the optin form and join live streaming.
 
 this app is monolith application built with adonisjs, inertia, and svelte. styling powered by tailwind css.
 
@@ -14,6 +16,7 @@ reference : https://docs.adonisjs.com/guides/database/introduction
 for live chat, using  ws https://github.com/websockets/ws
 
 make sure u install redis to make pub sub between node cluster app.
+
 
 
 
