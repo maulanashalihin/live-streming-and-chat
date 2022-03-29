@@ -11,11 +11,22 @@ demo optin page : https://bwa.drip.id/jogjamengaji
 
 demo live stream : https://bwa.drip.id/view/1e1fe9ac00c5860e6f07f2044586c46b
 
+develop apps with this command
+
+```
+ npm install
+  cp .env.example .env
+ mkdir tmp
+ node ace migration:run
+ node ace db:seed 
+ npm run dev
+```
+
+
 deploy apps with this command
 
 ```
- npm run build
- cd build
+ 
  cp ../.env.example .env
  mkdir tmp
  npm install
